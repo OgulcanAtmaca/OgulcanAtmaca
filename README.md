@@ -12,4 +12,4 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o%C4%9Fulcan-atmaca-9a99a51a3/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](	https://medium.com/@ogulcanatmaca)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ogulcanatmaca)
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ogulcanatmaca@gmail.com)](mailto:ogulcanatmaca@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/ogulcanatmaca@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ogulcanatmaca@gmail.com)](mailto:ogulcanatmaca@gmail.com)
